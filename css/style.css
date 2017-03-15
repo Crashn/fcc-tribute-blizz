@@ -1,10 +1,8 @@
-.container {
-   padding: 40px 10px;
-}
 .wrapper {
    background-color: #e3e3e3;
    border-radius: 5px;
    padding: 10px 40px;
+   margin: 40px 20px;
 }
 
 .company-name {
@@ -12,4 +10,3 @@
    text-align: center;
    color: #313131;
 }
-
