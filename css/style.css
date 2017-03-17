@@ -1,12 +1,17 @@
 .wrapper {
+   max-width: 960px;
    background-color: #e3e3e3;
-   border-radius: 5px;
+   border-radius: 3px;
    padding: 10px 40px;
-   margin: 40px 20px;
+   margin: 40px auto;
 }
 
 .company-name {
    font-size: 30pt;
    text-align: center;
    color: #313131;
+}
+
+.white-bg {
+   background-color: white;
 }
